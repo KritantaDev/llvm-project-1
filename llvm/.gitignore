@@ -55,6 +55,7 @@ autoconf/autom4te.cache
 projects/*
 !projects/*.*
 !projects/Makefile
+!projects/tapi
 runtimes/*
 !runtimes/*.*
 # Clang, which is tracked independently.

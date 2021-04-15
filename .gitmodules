@@ -1,0 +1,3 @@
+[submodule "llvm/projects/tapi"]
+	path = llvm/projects/tapi
+	url = ../tapi.git
